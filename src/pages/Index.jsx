@@ -1,5 +1,5 @@
 import { Box, Button, Container, Flex, Heading, HStack, Icon, Image, Stack, Text, VStack } from "@chakra-ui/react";
-import { FaChalkboardTeacher, FaPaintBrush, FaVideo } from "react-icons/fa";
+import { FaChalkboardTeacher, FaPaintBrush, FaVideo, FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 import { useState } from "react";
 
 const testimonials = [
