@@ -1,5 +1,5 @@
 import { Box, Button, Container, Flex, Grid, Heading, HStack, Icon, Image, Text, VStack } from "@chakra-ui/react";
-import { FaStar } from "react-icons/fa";
+import { FaStar, FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 import { useState } from "react";
 
 const testimonials = [
